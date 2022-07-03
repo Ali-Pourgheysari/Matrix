@@ -5,13 +5,13 @@ This is an application that enables you to work with matrices. You can insert or
 As soon as you start the application, you can insert a matrix file.
 
 <p align="center">
-    <img src=".\screenshot\1 csv file.PNG" width="400" higth="300" >
+    <img src=".\screenshot\1 csv file.PNG" width="800" higth="600" >
 </p>
 
 ## Menu
 In the menu you can find the following options:
 <p align="center">
-    <img src=".\screenshot\2 main page.PNG" width="250" higth="350" >
+    <img src=".\screenshot\2 main page.PNG" width="800" higth="600" >
 </p>
 
 * Once you enter 0 you inset rows and columns of the matrix then you can insert the elements of the matrix. If the index was filled with a number(not 0) then This element will be shifted to the next index.
