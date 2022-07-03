@@ -1,6 +1,30 @@
+# Matrix
+This is an application that enables you to work with matrices. You can insert or delete an element, you can search for an element, you can update an element and you can print the matrix in usual form and Sparse matrix form.
+
+## Insert matrix file
+As soon as you start the application, you can insert a matrix file.
+
+<p align="center">
+    <img src=".\screenshot\1 csv file.PNG" width="400" higth="300" >
+</p>
+
+## Menu
+In the menu you can find the following options:
+<p align="center">
+    <img src=".\screenshot\2 main page.PNG" width="250" higth="350" >
+</p>
+
+* Once you interd 0 you inset rows and columns of the matrix then you can insert the elements of the matrix. If the index was filled with a number(not 0) then This element will be shifted to next index.
+* Once you interd 1 you can delete an element by giving the row and column.
+* If you interd 2 you can search for an element by giving the value.
+* By intering 3 you can update an element by giving the row and column.
+* If you interd 4 you can print the matrix in usual form or the Sparse matrix form.
+* As soon as you interd 5 you can save changes.
+* By pressing * you can exit the application.
+
 <div dir='rtl' align="justify">
-  
-# مینی پروژه  دوم
+# توضیحات این فاز
+
 یکی از مهم‌ترین مباحث موجود در علوم کامپیوتر و به خصوص یادگیری ماشینی، مبحث فشرده‌سازی و استفاده‌ی بهینه از فضاهای موجود است. هم‌چنین فشرده‌سازی به شکل مناسب، می‌تواند عملیات‌های پایه نظیر افزودن، حذف کردن، جست و جو و اصلاح یک عنصر را تسریع بخشد.
 
 در علم یادگیری ماشینی، داده ساختار ماتریس، یکی از پرکاربردترین ساختمان‌‌های داده به شما می‌رود و از این روی، در این پروژه کوچک، قرار است به مبحث فشرده‌سازی و نمایش صحیح یک ماتریس در ابعاد بزرگ بپردازیم.
