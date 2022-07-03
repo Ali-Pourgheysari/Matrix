@@ -1,5 +1,5 @@
 # Matrix
-This is an application that enables you to work with matrices. You can insert or delete an element, you can search for an element, you can update an element and you can print the matrix in usual form and Sparse matrix form.
+This is an application that enables you to work with matrices. You can insert or delete an element, search for an element, update an element, and print the matrix in the usual form and Sparse matrix form.
 
 ## Insert matrix file
 As soon as you start the application, you can insert a matrix file.
@@ -14,12 +14,12 @@ In the menu you can find the following options:
     <img src=".\screenshot\2 main page.PNG" width="250" higth="350" >
 </p>
 
-* Once you interd 0 you inset rows and columns of the matrix then you can insert the elements of the matrix. If the index was filled with a number(not 0) then This element will be shifted to next index.
-* Once you interd 1 you can delete an element by giving the row and column.
-* If you interd 2 you can search for an element by giving the value.
-* By intering 3 you can update an element by giving the row and column.
-* If you interd 4 you can print the matrix in usual form or the Sparse matrix form.
-* As soon as you interd 5 you can save changes.
+* Once you enter 0 you inset rows and columns of the matrix then you can insert the elements of the matrix. If the index was filled with a number(not 0) then This element will be shifted to the next index.
+* Once you enter 1 you can delete an element by giving the row and column.
+* If you enter 2 you can search for an element by giving the value.
+* By entering 3 you can update an element by giving the row and column.
+* If you enter 4 you can print the matrix in the usual form or the Sparse matrix form.
+* As soon as you enter 5 you can save changes.
 * By pressing * you can exit the application.
 
 <div dir='rtl' align="justify">
