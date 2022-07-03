@@ -34,7 +34,7 @@ In the menu you can find the following options:
 منظور از ماتریس خلوت، ماتریسی است که تعداد خانه‌های صفر آن بسیار زیاد بوده و نسبت خانه‌های غیرصفر به صفر در آن عدد کوچکی خواهد شد. به عنوان مثال در شکل زیر می‌توانید یک ماتریس خلوت را مشاهده کنید:
 
 <p align="center">
-    <img src="https://s21.picofile.com/file/8442225434/matrix1.PNG" width="800" higth="600" >
+    <img src="https://s21.picofile.com/file/8442225434/matrix1.PNG" width="600" higth="400" >
 </p>
  
 
